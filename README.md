@@ -1,2 +1,2 @@
 # hello-jenkins
-Super Simple App
+Super Simple App deployed using Docker and Jenkins
